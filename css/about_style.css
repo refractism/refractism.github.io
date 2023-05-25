@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.footer-text {
+  color: #111111;
+  font-size: 5px;
+}
+
+video {
+    width: 100%;
+}
