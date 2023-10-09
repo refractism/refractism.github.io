@@ -1,2 +1,2 @@
 @echo on
-mocha ./js/js_test/test.js
+./node_modules/mocha/bin/mocha ./js/js_test/test.js
